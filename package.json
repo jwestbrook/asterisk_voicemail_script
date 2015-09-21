@@ -1,0 +1,15 @@
+{
+  "name": "Asterisk Voicemail Script",
+  "version": "0.0.1",
+  "description": "The node architecture for the V2 web site.",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/jwestbrook/asterisk_voicemail_script"
+  },
+  "dependencies": {
+    "nodemailer": "~0.5.6",
+    "handlebars": "~1.1.2",
+  },
+  "author": "Jason Westbrook <jwestbrook@gmail.com>",
+  "license": "MIT",
+}
